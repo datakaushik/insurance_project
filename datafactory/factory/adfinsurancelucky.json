@@ -1,0 +1,9 @@
+{
+	"name": "adfinsurancelucky",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "deb130c7-f38c-4854-801d-ca8509e9abf8",
+		"tenantId": "08ff1306-53c8-4e19-ab6d-84f7c923c34e"
+	}
+}
